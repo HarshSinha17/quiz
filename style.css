@@ -1,0 +1,40 @@
+body {
+ text-align: center;
+ background-color: #222;
+ color: white;
+}
+h1 {
+ letter-spacing: 4px;
+}
+.inp1{
+background-color: transparent;
+color: white;
+outline: none;
+border: 1px solid aqua;
+padding: 10px;
+border-radius: 20px;
+}
+.intro{
+border: 1px solid white;
+border-radius: 20px;
+}
+.main{
+border: 1px solid white;
+border-radius: 20px;
+}
+.inp2{
+background-color: transparent;
+color: white;
+outline: none;
+border: 1px solid blue;
+padding: 10px;
+border-radius: 20px;
+}
+.button{
+background-color: transparent;
+color: white;
+outline: none;
+border: 1px solid red;
+padding: 10px;
+border-radius: 20px;
+}
